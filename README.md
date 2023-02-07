@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shaquon
-- 👀 I’m interested in buidling a brighter future
+- 👀 I’m interested in building a brighter future
 - 🌱 I’m currently learning how to write cleaner code
 - 💞️ I’m looking to collaborate on a project that helps self taught learners
 - 📫 You can reach me @ shaquonkelley@gmail.com
